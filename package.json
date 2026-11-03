@@ -1,0 +1,16 @@
+  "name": "apex-sigma-wingo",
+  "version": "3.2.0",
+  "description": "APEX-Σ ULTIMATE ENGINE — Fully automatic Wingo 1Min predictor",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {},
+  "keywords": ["wingo", "lottery", "prediction", "apex-sigma"],
+  "license": "MIT"
+}
